@@ -1,7 +1,12 @@
 import streamlit
 
-streamlit.title('SF cloud data warehouse')
+streamlit.title('My Mom's New healthy diner')
 
-streamlit.header('Course details')
+streamlit.header('Breakfast Menu')
+streamlit.text('🥣 Omega 3 & Blueberry Oatmeal')
+streamlit.text('🥗 Kale, Spinach & Rocket Smoothie')
+streamlit.text('🐔 Hard-Boiled Free-Range Egg')
+streamlit.text('🥑🍞 Avocado Toast')
 
-streamlit.text('Snowflake DB')
+
+streamlit.header('🍌🥭 Build Your Own Fruit Smoothie 🥝🍇')
